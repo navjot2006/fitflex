@@ -430,7 +430,7 @@ const Footer = () => {
             target="_blank"
             sx={{ mx: 1 }}
           >
-            <FaInstagram icon={faXTwitter} />
+            <FontAwesomeIcon icon={faTwitter} />
           </IconButton>
           <IconButton
             color="inherit"
